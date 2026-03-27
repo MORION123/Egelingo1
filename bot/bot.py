@@ -13,7 +13,7 @@ dp = Dispatcher(bot)
 kb = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(
         text="Открыть тренажёр",
-        web_app=WebAppInfo(url="https://username.github.io/telegram-ege-app/")
+        web_app=WebAppInfo(url="https://morion123.github.io/Egelingo1/")
     )]
 ])
 
